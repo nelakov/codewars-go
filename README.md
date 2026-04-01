@@ -1,30 +1,69 @@
 # CodeWars Go
 
-Solutions to [CodeWars](https://www.codewars.com/) katas in Go.
+[![CodeWars](https://www.codewars.com/users/nelakov/badges/large)](https://www.codewars.com/users/nelakov)
+![Go](https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white)
 
-## Structure
+Solutions to [CodeWars](https://www.codewars.com/) katas in Go by [nelakov](https://www.codewars.com/users/nelakov).
 
-```
-kyu8/                           # 8 kyu (beginner)
-  └── kata_name/
-      ├── kata_name.go          # solution
-      └── kata_name_test.go     # tests
-kyu7/                           # 7 kyu
-...
-kyu1/                           # 1 kyu (hardest)
-```
+## Progress
 
-Each kata is a separate Go package containing the solution and table-driven tests.
+| Kyu | Solved |
+|-----|--------|
+| 8 kyu | 0 |
+| 7 kyu | 0 |
+| 6 kyu | 0 |
+| 5 kyu | 0 |
+| 4 kyu | 0 |
+| 3 kyu | 0 |
+| 2 kyu | 0 |
+| 1 kyu | 0 |
 
-## Run tests
+## Solutions
+
+### 8 kyu
+
+| Kata | Solution |
+|------|----------|
+
+### 7 kyu
+
+| Kata | Solution |
+|------|----------|
+
+### 6 kyu
+
+| Kata | Solution |
+|------|----------|
+
+### 5 kyu
+
+| Kata | Solution |
+|------|----------|
+
+### 4 kyu
+
+| Kata | Solution |
+|------|----------|
+
+### 3 kyu
+
+| Kata | Solution |
+|------|----------|
+
+### 2 kyu
+
+| Kata | Solution |
+|------|----------|
+
+### 1 kyu
+
+| Kata | Solution |
+|------|----------|
+
+## Run Tests
 
 ```bash
-# all katas
-go test ./...
-
-# specific kyu level
-go test ./kyu8/...
-
-# specific kata
-go test ./kyu8/count_vowels/
+go test ./...                     # all katas
+go test ./kyu8/...                # specific kyu level
+go test ./kyu8/kata_name/         # specific kata
 ```
