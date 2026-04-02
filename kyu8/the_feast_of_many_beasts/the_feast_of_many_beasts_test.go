@@ -9,13 +9,13 @@ func TestFeast(t *testing.T) {
 		want        bool
 	}{
 		{
-			name:  "the first letters not equals",
+			name:  "the first letters not equal",
 			beast: "dog",
 			dish:  "grog",
 			want:  false,
 		},
 		{
-			name:  "the first and last letters not equals",
+			name:  "the first and last letters not equal",
 			beast: "cat",
 			dish:  "fish",
 			want:  false,
