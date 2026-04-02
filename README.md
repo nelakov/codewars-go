@@ -9,7 +9,7 @@ Solutions to [CodeWars](https://www.codewars.com/) katas in Go by [nelakov](http
 
 | Kyu | Solved |
 |-----|--------|
-| 8 kyu | 1 |
+| 8 kyu | 2 |
 | 7 kyu | 0 |
 | 6 kyu | 0 |
 | 5 kyu | 0 |
@@ -25,6 +25,7 @@ Solutions to [CodeWars](https://www.codewars.com/) katas in Go by [nelakov](http
 | Kata | Solution |
 |------|----------|
 | [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Solution](./kyu8/the_feast_of_many_beasts/the_feast_of_many_beasts.go) |
+| [Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039) | [Solution](./kyu8/contamination_1_string/contamination_1_string.go) |
 
 ### 7 kyu
 
