@@ -3,20 +3,7 @@
 [![CodeWars](https://www.codewars.com/users/nelakov/badges/large)](https://www.codewars.com/users/nelakov)
 ![Go](https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white)
 
-Solutions to [CodeWars](https://www.codewars.com/) katas in Go by [nelakov](https://www.codewars.com/users/nelakov).
-
-## Progress
-
-| Kyu | Solved |
-|-----|--------|
-| 8 kyu | 2 |
-| 7 kyu | 0 |
-| 6 kyu | 0 |
-| 5 kyu | 0 |
-| 4 kyu | 0 |
-| 3 kyu | 0 |
-| 2 kyu | 0 |
-| 1 kyu | 0 |
+My [CodeWars](https://www.codewars.com/) kata solutions in Go. Just getting started.
 
 ## Solutions
 
@@ -27,45 +14,9 @@ Solutions to [CodeWars](https://www.codewars.com/) katas in Go by [nelakov](http
 | [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Solution](./kyu8/the_feast_of_many_beasts/the_feast_of_many_beasts.go) |
 | [Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039) | [Solution](./kyu8/contamination_1_string/contamination_1_string.go) |
 
-### 7 kyu
-
-| Kata | Solution |
-|------|----------|
-
-### 6 kyu
-
-| Kata | Solution |
-|------|----------|
-
-### 5 kyu
-
-| Kata | Solution |
-|------|----------|
-
-### 4 kyu
-
-| Kata | Solution |
-|------|----------|
-
-### 3 kyu
-
-| Kata | Solution |
-|------|----------|
-
-### 2 kyu
-
-| Kata | Solution |
-|------|----------|
-
-### 1 kyu
-
-| Kata | Solution |
-|------|----------|
-
-## Run Tests
+## Run tests
 
 ```bash
-go test ./...                     # all katas
-go test ./kyu8/...                # specific kyu level
-go test ./kyu8/kata_name/         # specific kata
+go test ./...        # all
+go test ./kyu8/...   # one kyu level
 ```
